@@ -2,7 +2,7 @@
   "name": "daikon",
   "version": "1.2.42",
   "description": "A JavaScript DICOM reader.",
-  "main": "src/main.js",
+  "main": "release/current/daikon-min.js",
   "directories": {
     "test": "tests"
   },
